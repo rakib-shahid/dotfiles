@@ -1,3 +1,5 @@
+/nvim/.local/
+/nvim/.cache/
 /*
 !.gitignore
 !/nvim/
